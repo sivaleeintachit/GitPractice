@@ -1,5 +1,5 @@
-import Test
+import Feature1
 
 def feature_2():
-    print(Test.hello_world)
+    print(Feature1.hello_world)
     print("ok bye!")
