@@ -1,2 +1,2 @@
-def hello_world():
+def feature_1():
     print("hello world")
